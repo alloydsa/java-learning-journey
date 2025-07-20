@@ -4,11 +4,11 @@ Welcome to my comprehensive Java learning repository! This collection represents
 
 ## 📚 Repository Overview
 
-This repository contains 24+ Java programs organized chronologically based on learning progression. Each file demonstrates specific Java concepts and features.
+This repository contains 25 Java programs organized chronologically based on learning progression. Each file demonstrates specific Java concepts and features.
 
 ## 🗂️ File Structure
 
-The files are numbered sequentially (1-24) based on the order they were created, representing the natural learning progression:
+The files are numbered sequentially (1-25) based on the order they were created, representing the natural learning progression:
 
 ### Foundation Level (1-5)
 - **1_Hello-1.java** - Introduction to Java basics, Calculator class, type casting
@@ -46,8 +46,8 @@ The files are numbered sequentially (1-24) based on the order they were created,
 - **23_collections.java** - Collections framework (List, Set, Map)
 - **24_newEnhancement.java** - Modern Java features and enhancements
 
-### Database Connectivity
-- **javadatabaseconnectivity(JDBC)** - JDBC concepts and database connection steps
+### Database Connectivity (25)
+- **25_javadatabaseconnectivity.java** - JDBC concepts and database connection steps
 
 ## 🎯 Learning Objectives Covered
 
@@ -80,7 +80,7 @@ The files are numbered sequentially (1-24) based on the order they were created,
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/java-learning-journey.git
+   git clone https://github.com/alloydsa/java-learning-journey.git
    cd java-learning-journey
    ```
 
@@ -158,7 +158,7 @@ This repository follows a structured learning path:
 1. **Beginner** (Files 1-5): Basic syntax and fundamental concepts
 2. **Intermediate** (Files 6-14): Object-oriented programming principles
 3. **Advanced** (Files 15-19): Advanced Java features and design patterns
-4. **Expert** (Files 20-24): Complex topics like concurrency and collections
+4. **Expert** (Files 20-25): Complex topics like concurrency, collections, and database connectivity
 
 ## 🤝 Contributing
 
@@ -184,7 +184,7 @@ While this is a personal learning repository, suggestions and improvements are w
 
 ## 📊 Repository Statistics
 
-- **Total Java Files:** 24
+- **Total Java Files:** 25
 - **Lines of Code:** 1000+
 - **Concepts Covered:** 20+
 - **Difficulty Levels:** Beginner to Advanced
